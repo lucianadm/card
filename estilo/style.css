@@ -1,0 +1,24 @@
+
+.car_ppal{
+
+    margin-top: 100rem;
+    padding: 5rem;
+    background-color: rgb(171, 227, 227);
+    border-radius: 10%;
+}
+.foto{
+background-color: rgb(115, 191, 204);
+border-radius: 30%;
+width: 20rem;
+height: auto;
+padding: 3rem;
+}
+
+.titulo{
+    color: rgb(115, 191, 204);
+    align-content: center;
+}
+.icono{
+    margin-top: 50rem;
+  border-radius: 30%;
+}
